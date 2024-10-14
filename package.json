@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "concurrently": "^9.0.1",
+    "express": "^4.21.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.7.5",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
+    "typescript": "^5.6.3"
+  },
+  "scripts": {
+    "client": "parcel index.html",
+    "server": "node dist/server/server.js",
+    "start": "concurrently \"npm run client\" \"npm run server\"",
+    "start-client": "parcel public/index.html"
+  }
+}
