@@ -18,9 +18,6 @@ This project is a task manager application that demonstrates **SOLID Principles*
 - **Build Tool**: Parcel (for client-side bundling)
 - **Language**: TypeScript
 
-Here’s an extended and detailed version of the **Project Setup** and **Dependencies** sections for your **README.md**:
-
----
 
 ## **Project Setup**
 
