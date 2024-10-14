@@ -1,8 +1,3 @@
-Sure! Here's a detailed **README.md** format that explains how to run the project, showcases how the SOLID principles are implemented, and outlines the tech stack and file structure.
-
-### **README.md**
-
----
 
 # **Task Manager Application**
 
